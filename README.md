@@ -16,7 +16,7 @@ Applies the K means algorithm to isolate clouds over maps.
 ### [🧬DNA sequence analysis: Markov Chains](./4.DNA-sequence-analysis)
 An investigation into biological sequences and markov chains.
 
-### [📸Syllabuss: Database extraction from images](./5. Syllabuss)
+### [📸Syllabuss: Database extraction from images](./5.Syllabuss)
 Creates a database of university courses taken by students using screenshots of a webpage.
 
 ### [🦖Fossil Analysis](./6.Fossil-Analysis)
