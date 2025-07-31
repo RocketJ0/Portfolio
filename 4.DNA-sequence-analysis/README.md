@@ -6,4 +6,3 @@ A series of exercises exploring DNA/RNA sequence processing, probabilistic model
 ## What did I learn?
 - Hashing and dictionaries can be powerful tools in many contexts. I used them in ways I would not have otherwise, thanks to this project.
 - The structure of Markov chains, and how they model probabilistic sequences.
-- 
