@@ -10,16 +10,16 @@ An investigation into how temperature and humidity are connected, with an attemp
 ### [🏥Framingham Heart Study](./2.Fram-regression)
 Tries to establish correlations between different factors of the Framingham Heart study, to investigate how factors affect Systolic Blood Pressure and to calculate the probability of having high blood pressure. 
 
-### [K means for cloud cover](./3.Cloud-cover-K-means)
+### [☁️K means for cloud cover](./3.Cloud-cover-K-means)
 Applies the K means algorithm to isolate clouds over maps.
 
-### [DNA sequence analysis: Markov Chains](./4.DNA-sequence-analysis)
+### [🧬DNA sequence analysis: Markov Chains](./4.DNA-sequence-analysis)
 An investigation into biological sequences and markov chains.
 
-### [Syllabuss: Database extraction from images](./5. Syllabuss)
+### [📸Syllabuss: Database extraction from images](./5. Syllabuss)
 Creates a database of university courses taken by students using screenshots of a webpage.
 
-### [Fossil Analysis](./6.Fossil-Analysis)
+### [🦖Fossil Analysis](./6.Fossil-Analysis)
 Analyses fossil distribution to study patterns of speciation over time and space.
 
 ...and more to come!
