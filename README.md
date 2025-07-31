@@ -11,7 +11,7 @@ An investigation into how temperature and humidity are connected, with an attemp
 Tries to establish correlations between different factors of the Framingham Heart study, to investigate how factors affect Systolic Blood Pressure and to calculate the probability of having high blood pressure. 
 
 ### [☁️K means for cloud cover](./3.Cloud-cover-K-means)
-Applies the K means algorithm to isolate clouds over maps.
+Applies the K means algorithm to identify and extract clouds on maps.
 
 ### [🧬DNA sequence analysis: Markov Chains](./4.DNA-sequence-analysis)
 An investigation into biological sequences and markov chains.
