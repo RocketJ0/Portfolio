@@ -4,7 +4,7 @@ Welcome to my project portfolio. Here you'll find a collection of my work in dat
 
 ## Featured Projects
 
-### [🌡️Temperature humidity regression](./1.Temp,-humidity)
+### [🌡️Temperature humidity regression](./1.Temp-humidity)
 An investigation into how temperature and humidity are connected, with an attempt to form a model of linear regression between them, from a picture showing humidity data to a picture of temperature data.
 
 ### [🏥Framingham Heart Study](./2.Fram-regression)
