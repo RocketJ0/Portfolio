@@ -4,7 +4,7 @@ Welcome to my project portfolio. Here you'll find a collection of my work in dat
 
 ## 🔍 Featured Projects
 
-### [🧠 Course Data Extraction Tool](./1. Temp, Humidity)
-An investigtation into how Temperature and pressure are connected, with an attempt to form a model of linear regression between them.
+### [🧠 Course Data Extraction Tool](./1.Temp,-humidity)
+An investigtation into how temperature and humidity are connected, with an attempt to form a model of linear regression between them, from a picture showing humidity data to a picture of temperature data.
 
 ...and more to come!
