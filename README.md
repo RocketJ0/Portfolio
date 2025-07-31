@@ -2,7 +2,7 @@
 
 Welcome to my project portfolio. Here you'll find a collection of my work in data analysis, computer vision, and more.
 
-## Projects
+## Featured Projects
 
 ### [🌡️Temperature humidity regression](./1.Temp,-humidity)
 An investigation into how temperature and humidity are connected, with an attempt to form a model of linear regression between them, from a picture showing humidity data to a picture of temperature data.
@@ -22,4 +22,4 @@ Creates a database of university courses taken by students using screenshots of 
 ### [🦖Fossil Analysis](./6.Fossil-Analysis)
 Analyses fossil distribution to study patterns of speciation over time and space.
 
-...and more to come!
+...with more to come!
